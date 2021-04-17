@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/old-skool/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/old-skool/static/js/main.52c7ed14.chunk.js",
-    "main.js.map": "/old-skool/static/js/main.52c7ed14.chunk.js.map",
-    "runtime-main.js": "/old-skool/static/js/runtime-main.f3d1e4eb.js",
-    "runtime-main.js.map": "/old-skool/static/js/runtime-main.f3d1e4eb.js.map",
-    "static/js/2.b889643d.chunk.js": "/old-skool/static/js/2.b889643d.chunk.js",
-    "static/js/2.b889643d.chunk.js.map": "/old-skool/static/js/2.b889643d.chunk.js.map",
-    "static/js/3.f9c01aed.chunk.js": "/old-skool/static/js/3.f9c01aed.chunk.js",
-    "static/js/3.f9c01aed.chunk.js.map": "/old-skool/static/js/3.f9c01aed.chunk.js.map",
+    "main.css": "/old-skool/static/css/main.a0c9c576.chunk.css",
+    "main.js": "/old-skool/static/js/main.3f0fcfe2.chunk.js",
+    "main.js.map": "/old-skool/static/js/main.3f0fcfe2.chunk.js.map",
+    "runtime-main.js": "/old-skool/static/js/runtime-main.c14c458f.js",
+    "runtime-main.js.map": "/old-skool/static/js/runtime-main.c14c458f.js.map",
+    "static/js/2.1366021a.chunk.js": "/old-skool/static/js/2.1366021a.chunk.js",
+    "static/js/2.1366021a.chunk.js.map": "/old-skool/static/js/2.1366021a.chunk.js.map",
+    "static/js/3.7df2d1d3.chunk.js": "/old-skool/static/js/3.7df2d1d3.chunk.js",
+    "static/js/3.7df2d1d3.chunk.js.map": "/old-skool/static/js/3.7df2d1d3.chunk.js.map",
     "index.html": "/old-skool/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/old-skool/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.b889643d.chunk.js.LICENSE.txt": "/old-skool/static/js/2.b889643d.chunk.js.LICENSE.txt"
+    "static/css/main.a0c9c576.chunk.css.map": "/old-skool/static/css/main.a0c9c576.chunk.css.map",
+    "static/js/2.1366021a.chunk.js.LICENSE.txt": "/old-skool/static/js/2.1366021a.chunk.js.LICENSE.txt",
+    "static/media/ms_sans_serif.woff2": "/old-skool/static/media/ms_sans_serif.0348082a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/old-skool/static/media/ms_sans_serif_bold.7fcf57cc.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3d1e4eb.js",
-    "static/js/2.b889643d.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.52c7ed14.chunk.js"
+    "static/js/runtime-main.c14c458f.js",
+    "static/js/2.1366021a.chunk.js",
+    "static/css/main.a0c9c576.chunk.css",
+    "static/js/main.3f0fcfe2.chunk.js"
   ]
 }
