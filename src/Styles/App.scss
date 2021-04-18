@@ -31,3 +31,22 @@ body,
   width: 100%;
   justify-content: space-between;
 }
+
+.start-menu {
+  display: flex;
+  flex-direction: row;
+  width: 15%;
+  z-index: 2;
+  position: absolute;
+  bottom: 6%;
+  > p {
+    writing-mode: tb-rl;
+    background-color: #808080;
+    padding: 2%;
+    color: #ffffff;
+    transform: rotate(-180deg);
+  }
+  .start-menu-list {
+    border-style: none;
+  }
+}

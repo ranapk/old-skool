@@ -1,7 +1,8 @@
 import moment from "moment";
 import React, { useState } from "react";
-import { Button, Cutout, Toolbar } from "react95";
-import "../Styles/App.css";
+import { Button, Toolbar } from "react95";
+import "../Styles/App.scss";
+import StartMenu from "./StartMenu";
 function Taskbar(props) {
   const [time, setTime] = useState(
     moment.utc().add(5, "h").add(30, "m").format("hh:mm A")
@@ -11,12 +12,15 @@ function Taskbar(props) {
   }, 1000);
   console.log(time);
   return (
-    <Toolbar className="taskbar old-border-box">
-      <Button style={buttonStyle}>Start</Button>
-      <div style={timerStyle}>
-        <p>{time}</p>
-      </div>
-    </Toolbar>
+    <>
+      <StartMenu />
+      <Toolbar className="taskbar old-border-box">
+        <Button style={buttonStyle}>Start</Button>
+        <div style={timerStyle}>
+          <p>{time}</p>
+        </div>
+      </Toolbar>
+    </>
   );
 }
 
@@ -34,4 +38,5 @@ const timerStyle = {
   boxShadow: "inset 2px 2px 2px rgb(0 0 0 / 40%)",
   alignText: "center",
 };
+
 export default Taskbar;

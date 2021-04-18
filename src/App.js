@@ -8,7 +8,7 @@ import ms_sans_serif from "react95/dist/fonts/ms_sans_serif.woff2";
 import ms_sans_serif_bold from "react95/dist/fonts/ms_sans_serif_bold.woff2";
 import Taskbar from "./Desktop/Taskbar";
 import Dashboard from "./Desktop/Dashboard";
-import './Styles/App.css'
+import './Styles/App.scss'
 const GlobalStyles = createGlobalStyle`
 @font-face {
   font-family: 'ms_sans_serif';
